@@ -9,7 +9,7 @@ synopsis:           A shared by different Ukrainian implementations of the PhLAD
 description:        Is intended to be used by both old phonetic-languages-simplified-examples-array and new phladiprelio-ukrainian-simple packages.
 
 -- A URL where users can report bugs.
--- bug-reports:
+bug-reports:        https://github.com/Oleksandr-Zhabenko/phladiprelio-ukrainian-shared/issues
 
 -- The license under which the package is released.
 license:            MIT
