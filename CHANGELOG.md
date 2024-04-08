@@ -16,3 +16,7 @@
 
 * Fifth version revised A. Fixed issue with one of the dependencies phladiprelio-general-datatype. 
 
+## 0.5.0.2 -- 2024-04-08
+
+* Fifth version revised B. Updated the dependency boundaries.
+
